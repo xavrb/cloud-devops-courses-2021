@@ -19,10 +19,10 @@ A set of courses taken related to cloud/devops (GCP, AWS, docker, k8s, etc)
 * [Google Cloud Platform Fundamentals: Core Infrastructure, Google Cloud, Coursera](https://www.coursera.org/account/accomplishments/verify/DUSR3EQBXN3B)
 * [Developing a Google SRE Culture, Google Cloud, Coursera](https://www.coursera.org/account/accomplishments/verify/HVWY27ZJ2Q4G)   
 
-### AWS, **in progress**
-* [AWS fundamentals(Curso de fundamentos de AWS), Platzi](https://platzi.com/clases/aws-cloud/)  
-* [AWS Cloud Practitioner Essentials, Coursera](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)  
-* [AWS S3 Basics](https://www.coursera.org/projects/aws-s3-basics)  
-* [AWS basic concepts, Coursera](https://www.coursera.org/specializations/aws-fundamentals)  
+### AWS, **in progress - marked **
+* [AWS fundamentals(Curso de fundamentos de AWS), Platzi](https://platzi.com/clases/aws-cloud/)  *
+* [AWS Cloud Practitioner Essentials, Coursera](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)  *
+* [AWS S3 Basics](https://www.coursera.org/account/accomplishments/verify/ANCAK6FZX4WT)  
+* [AWS basic concepts, Coursera](https://www.coursera.org/specializations/aws-fundamentals)  *
 
 

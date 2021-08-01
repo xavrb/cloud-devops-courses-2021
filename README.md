@@ -7,17 +7,17 @@ A set of courses taken related to cloud/devops (GCP, AWS, docker, k8s, etc)
 
 ### Docker and k8s
 
-* __Project__ **[Completed, 14 FEB]** [Docker fundamentals, Coursera ](https://www.coursera.org/account/accomplishments/verify/UNBDENV5Y7B8) 
-* __Project__ **[Completed, 04 March]** [Containerize a full-stack NodeJS application in Docker](https://www.coursera.org/account/accomplishments/verify/MCNYL9S3YAFZ) 
-* **[Completed: 3 March]** [Docker fundamentals (Fundamentos de Docker 2018), Platzi](https://platzi.com/p/javiermejiaperez/curso/1432-docker-2018/diploma/detalle/)
-* **[Completed: 3 March]** [Docker Course, Platzi](https://platzi.com/p/javiermejiaperez/curso/2066-course/diploma/detalle/)
-* **[Completed: 08 March]** [Introduction to Containers, Kubernetes, and OpenShift, edX](https://courses.edx.org/certificates/858de0684f2b44cdb4bb93e10528bff4)  
-* __Project__ **[Completed: 13 March]** [Container Orchestration using Kubernetes, Coursera](https://www.coursera.org/account/accomplishments/verify/MUABYWRDJJKQ)
+* [Docker fundamentals, Coursera ](https://www.coursera.org/account/accomplishments/verify/UNBDENV5Y7B8) 
+* [Containerize a full-stack NodeJS application in Docker](https://www.coursera.org/account/accomplishments/verify/MCNYL9S3YAFZ) 
+* [Docker fundamentals (Fundamentos de Docker 2018), Platzi](https://platzi.com/p/javiermejiaperez/curso/1432-docker-2018/diploma/detalle/)
+* [Docker Course, Platzi](https://platzi.com/p/javiermejiaperez/curso/2066-course/diploma/detalle/)
+* [Introduction to Containers, Kubernetes, and OpenShift, edX](https://courses.edx.org/certificates/858de0684f2b44cdb4bb93e10528bff4)  
+* [Container Orchestration using Kubernetes, Coursera](https://www.coursera.org/account/accomplishments/verify/MUABYWRDJJKQ)
 
 ## Cloud
 ### GCP
-* **[Completed: 18 March]** [Google Cloud Platform Fundamentals: Core Infrastructure, Google Cloud, Coursera](https://www.coursera.org/account/accomplishments/verify/DUSR3EQBXN3B)
-* **[Completed:  04 April]** [Developing a Google SRE Culture, Google Cloud, Coursera](https://www.coursera.org/account/accomplishments/verify/HVWY27ZJ2Q4G)   
+* [Google Cloud Platform Fundamentals: Core Infrastructure, Google Cloud, Coursera](https://www.coursera.org/account/accomplishments/verify/DUSR3EQBXN3B)
+* [Developing a Google SRE Culture, Google Cloud, Coursera](https://www.coursera.org/account/accomplishments/verify/HVWY27ZJ2Q4G)   
 
 ### AWS, **in progress**
 * [AWS fundamentals(Curso de fundamentos de AWS), Platzi](https://platzi.com/clases/aws-cloud/)  

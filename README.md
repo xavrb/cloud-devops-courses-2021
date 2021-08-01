@@ -7,7 +7,7 @@ A set of courses taken related to cloud/devops (GCP, AWS, docker, k8s, etc)
 
 ### Docker and k8s
 
-* __Project__ **[Completed, 14 FEB]** [Docker fundamentals, Coursera ]((https://www.coursera.org/account/accomplishments/verify/UNBDENV5Y7B8)  )
+* __Project__ **[Completed, 14 FEB]** [Docker fundamentals, Coursera ](https://www.coursera.org/account/accomplishments/verify/UNBDENV5Y7B8) 
 * __Project__ **[Completed, 04 March]** [Containerize a full-stack NodeJS application in Docker](https://www.coursera.org/account/accomplishments/verify/MCNYL9S3YAFZ) 
 * **[Completed: 3 March]** [Docker fundamentals (Fundamentos de Docker 2018), Platzi](https://platzi.com/p/javiermejiaperez/curso/1432-docker-2018/diploma/detalle/)
 * **[Completed: 3 March]** [Docker Course, Platzi](https://platzi.com/p/javiermejiaperez/curso/2066-course/diploma/detalle/)

@@ -22,7 +22,7 @@ A set of courses taken related to cloud/devops (GCP, AWS, docker, k8s, etc)
 ### AWS, **in progress - marked **
 * [AWS fundamentals(Curso de fundamentos de AWS), Platzi](https://platzi.com/clases/aws-cloud/)  *
 * [AWS Cloud Practitioner Essentials, Coursera](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)  *
-* [AWS S3 Basics](https://www.coursera.org/account/accomplishments/verify/ANCAK6FZX4WT)  
+* [AWS S3 Basics, Coursera](https://www.coursera.org/account/accomplishments/verify/ANCAK6FZX4WT)  
  
 
 ### Azure 

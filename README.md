@@ -26,5 +26,5 @@ A set of courses taken related to cloud/devops (GCP, AWS, docker, k8s, etc)
  
 
 ### Azure 
-* [Introduction to Azure](https://platzi.com/clases/introduccion-azure/)  
-* [Microsoft Azure Fundamentals AZ-900 Exam Prep](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900)    
+* [Introduction to Cloud computing in Azure, Platzi](https://platzi.com/clases/introduccion-azure/)
+* [Microsoft Azure Fundamentals AZ-900 Exam Prep, Coursera](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900)    
